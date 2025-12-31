@@ -1,4 +1,4 @@
-import { Client, Environment } from 'squareup'
+import { Client, Environment } from 'square'
 import { createClient } from '@supabase/supabase-js'
 import { randomUUID } from 'crypto'
 
